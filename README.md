@@ -12,3 +12,4 @@ Real = (0...9) (0...9)* (e (+|-)? (0...9) (0...9)*)? (f|d)?
 
 ## Automato Finito
 
+<img src="https://raw.githubusercontent.com/gusthavosouza/AutomatoFinito/9d8d2f7c2821af240a030ea1b85c79d3557f52f4/img/automato.jpg"> </img>
