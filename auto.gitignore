@@ -1,6 +1,0 @@
-### Java ###
-*.class
-/bin
-.classpath
-.project
-.settings/*
